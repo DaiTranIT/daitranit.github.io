@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DaiTranIT/daitranit.github.io.git/static/css/main.073c9b0a.css",
-    "main.js": "/DaiTranIT/daitranit.github.io.git/static/js/main.dc34551a.js",
-    "static/js/787.28cb0dcd.chunk.js": "/DaiTranIT/daitranit.github.io.git/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/DaiTranIT/daitranit.github.io.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/DaiTranIT/daitranit.github.io.git/index.html",
-    "main.073c9b0a.css.map": "/DaiTranIT/daitranit.github.io.git/static/css/main.073c9b0a.css.map",
-    "main.dc34551a.js.map": "/DaiTranIT/daitranit.github.io.git/static/js/main.dc34551a.js.map",
-    "787.28cb0dcd.chunk.js.map": "/DaiTranIT/daitranit.github.io.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.64df0c98.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.64df0c98.js.map": "/static/js/main.64df0c98.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.dc34551a.js"
+    "static/js/main.64df0c98.js"
   ]
 }
